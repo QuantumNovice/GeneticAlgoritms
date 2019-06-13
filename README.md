@@ -1,2 +1,2 @@
 # GeneticAlgoritms
-![](anim.png)
+![](anim.gif)
